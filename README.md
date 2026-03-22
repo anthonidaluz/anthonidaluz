@@ -1,7 +1,4 @@
-<!-- TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi, I'm Anthoni;Software+Developer;Computer+Scientist" />
-</p>
+<h1 align="center">Hi, I'm Anthoni 👋</h1>
 
 <h3 align="center">
 Software Developer 🇧🇷 | Computer Scientist 🌐
@@ -51,7 +48,7 @@ Driven to build efficient and impactful software solutions
   <a href="mailto:anthonidaluz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-    <a href="https://www.instagram.com/anthoni.luz/" target="_blank">
+  <a href="https://www.instagram.com/anthoni.luz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
