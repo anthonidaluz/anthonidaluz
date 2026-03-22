@@ -1,68 +1,65 @@
-<h2 align="left">Stats</h2>
+<!-- TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi, I'm Anthoni;Software+Developer;Computer+Scientist" />
+</p>
 
-###
+<h3 align="center">
+Software Developer 🇧🇷 | Computer Scientist 🌐
+</h3>
+
+---
+
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonidaluz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=anthonidaluz&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonidaluz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anthonidaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 </div>
 
-###
+---
 
-<h2 align="left">Technologies</h2>
+## 🚀 Technologies
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">About Me</h2>
+## 🧠 About Me
 
-###
+<p align="center">
+Bachelor's Degree in Computer Science – IFSC <br>
+Former QA with 1+ year of experience in Web, Desktop, and Mobile testing <br>
+Focused on .NET backend development, databases, and problem-solving <br>
+Driven to build efficient and impactful software solutions
+</p>
 
-<p align="left">Currently pursuing a degree in Computer Science at the Federal Institute of Santa Catarina. I am optimistic about the future and passionate about new technologies, with a focus on developing innovative solutions and contributing to projects that make a meaningful impact on society.</p>
+---
 
-###
+## 🌐 Connect with me
 
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/anthoni.luz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/anthoni-da-luz-6b0b03256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://malito:anthonidaluz@gmail.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:anthonidaluz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://www.instagram.com/anthoni.luz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Profile Views</h2>
-
-###
+## 👀 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/anthonidaluz/count.svg?"  />
+<img src="https://komarev.com/ghpvc/?username=anthonidaluz&style=for-the-badge&color=1f6feb" />
 </div>
-
-###
