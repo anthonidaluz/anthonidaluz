@@ -38,7 +38,7 @@ Desenvolvedor de Software Jr 🇧🇷 | Bacharel em Ciência da Computação �
 
 ## 🧠 Sobre Mim
 
-<p align="center">
+<p align="left">
 🎓 Bacharel em Ciência da Computação pelo IFSC <br>
 💼 Analista de Suporte Fiscal na NDD Tech <br>
 🔍 Experiência em QA com testes Web, Desktop e Mobile <br>
@@ -51,7 +51,7 @@ Desenvolvedor de Software Jr 🇧🇷 | Bacharel em Ciência da Computação �
 
 ## 🎯 Objetivos
 
-<p align="center">
+<p align="left">
 Atualmente busco oportunidades como <strong>Desenvolvedor Backend Jr</strong>,
 contribuindo com soluções escaláveis, APIs, bancos de dados e boas práticas de desenvolvimento.
 </p>
