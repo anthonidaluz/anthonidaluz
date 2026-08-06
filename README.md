@@ -9,11 +9,6 @@ Desenvolvedor de Software Jr 🇧🇷 | Bacharel em Ciência da Computação �
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anthonidaluz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonidaluz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=anthonidaluz&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -26,7 +21,6 @@ Desenvolvedor de Software Jr 🇧🇷 | Bacharel em Ciência da Computação �
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
