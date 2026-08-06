@@ -9,12 +9,12 @@ Desenvolvedor de Software Jr 🇧🇷 | Bacharel em Ciência da Computação �
 ## 📊 Estatísticas
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anthonidaluz&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonidaluz&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anthonidaluz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonidaluz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonidaluz&theme=tokyonight"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=anthonidaluz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
