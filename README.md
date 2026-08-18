@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Anthoni 👋</h1>
+<h1 align="left">Anthoni da Luz</h1>
 
-<h3 align="center">
-Desenvolvedor de Software Jr 🇧🇷 | Bacharel em Ciência da Computação 🎓
+<h3 align="left">
+Desenvolvedor de Software Jr 
 </h3>
 
 ---
