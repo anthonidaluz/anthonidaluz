@@ -22,9 +22,7 @@
 
 ## 🧠 Sobre mim
 
-Formado em Ciência da Computação pelo IFSC, atuando como Analista de Suporte Fiscal na NDD Tech, com experiência prática em Qualidade de Software (testes Web, Desktop e Mobile) e em integrações de ERP, WebServices e bancos de dados.
-
-Atualmente com foco em desenvolvimento **Frontend & Backend**, utilizando **C# e .NET**.
+Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, atuando como Analista de Suporte Fiscal na NDD Tech, com experiência prática em Qualidade de Software (testes Web, Desktop e Mobile) e em integrações de ERP, WebServices e bancos de dados. Atualmente direciono minha carreira para atuação em engenharia de software **Full Stack**, utilizando **ASP.NET, C# e .NET**.
 
 <br>
 
