@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1f6feb&height=200&section=header&text=Anthoni%20da%20Luz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20Jr.&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1f6feb&height=200&section=header&text=Anthoni%20da%20Luz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20Jr&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://www.anthonidaluz.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/anthoni-da-luz-6b0b03256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:anthonidaluz@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.anthonidaluz.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full Stack+Developer+%7C+C%23+%26+.NET"/>
 
 </div>
 
@@ -56,7 +52,7 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, at
 
 ## 🎯 Objetivo
 
-Busco oportunidades como **Desenvolvedor de Software Jr**.
+Busco oportunidades como **Desenvolvedor de Software Jr**
 
 <br>
 
