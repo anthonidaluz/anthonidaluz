@@ -16,13 +16,13 @@
 
 <br>
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, atuando como Analista de Suporte Fiscal na NDD Tech, com experiência prática em Qualidade de Software (testes Web, Desktop e Mobile) e em integrações de ERP, WebServices e bancos de dados. Atualmente direciono minha carreira para atuação em engenharia de software **Full Stack**, utilizando **ASP.NET, C# e .NET**.
 
 <br>
 
-## 🚀 Stack
+## Stack
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, at
 
 <br>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=anthonidaluz&theme=tokyonight&hide_border=true" width="60%" />
@@ -45,9 +45,9 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, at
 
 <br>
 
-## 🎯 Objetivo
+## Objetivo
 
-Busco oportunidades como **Desenvolvedor de Software Jr**
+Busco oportunidades como **Engenheiro de Software Jr**
 
 <br>
 
