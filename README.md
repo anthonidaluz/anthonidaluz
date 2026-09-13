@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1f6feb&height=200&section=header&text=Anthoni%20da%20Luz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20Jr&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1f6feb&height=200&section=header&text=Anthoni%20da%20Luz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.anthonidaluz.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -47,7 +47,7 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, at
 
 ## Objetivo
 
-Busco oportunidades como **Engenheiro de Software Jr**
+Busco oportunidades como **Engenheiro de Software Jr.**
 
 <br>
 
