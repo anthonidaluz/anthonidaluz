@@ -35,8 +35,6 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina, at
 
 </div>
 
-<br>
-
 ## Estatísticas
 
 <div align="center">
